@@ -95,7 +95,7 @@ This is an example of how you may give instructions on setting up your project l
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+To checkout swagger doc http://localhost:8090/swagger-ui/index.html#/department-controller/saveDepartments
 
 ### Installation
 
