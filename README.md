@@ -120,4 +120,4 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 [Springboot-url]: https://spring.io/projects/spring-boot
 [Hibernate-url]: https://hibernate.org
-[Postgres-url] :https://www.postgresql.org/
+[Postgres-url]:https://www.postgresql.org/
