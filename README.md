@@ -16,7 +16,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">springbootdemo</h3>
+<h3 align="center">Spring Bootdemo</h3>
 
   <p align="center">
     This a demo project which I started to checkout features of spring boot <br/> This includes all the CRUD operations as well some experimental features.
@@ -72,8 +72,8 @@ This a demo project which I started to checkout features of spring boot <br/> Th
 
 
 ### Built With
-* [![Spring][spring.io]][Spring-url]
-* [![Postgres][postgres.org]][Postgres-url]
+* [![Spring][Spring.io]][Spring-url]
+* [![Postgres][Postgres.org]][Postgres-url]
 * [![Hibernate][Hibernate.org]][Hibernate-url]
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
