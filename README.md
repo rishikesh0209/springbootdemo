@@ -74,6 +74,7 @@ This a demo project which I started to checkout features of spring boot <br/> Th
 * [![Spring][Spring.io]][Spring-url]
 * [![Postgres][Postgres.org]][Postgres-url]
 * [![Hibernate][Hibernate.org]][Hibernate-url]
+* [![Next][Next.js]][Next-url]
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
@@ -121,3 +122,5 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 [Springboot-url]: https://spring.io/projects/spring-boot
 [Hibernate-url]: https://hibernate.org
 [Postgres-url]:https://www.postgresql.org/
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
