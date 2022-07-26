@@ -1,0 +1,23 @@
+# server:
+#   port: 8082
+
+
+# spring:
+#   datasource:
+#     driver-class-name: org.postgresql.Driver
+#     password: Rishikesh@0209 
+#     url: jdbc:postgresql://localhost:5432/employeeManagementSystem?useSSL=false
+#     username: postgres
+#   jpa:
+#     properties:
+#         hibernate:
+#             dialect: org.hibernate.dialect.PostgreSQLDialect
+#     hibernate:
+#       ddl-auto: update
+#     show-sql: true
+#   config:
+#     welcome_message: Welcome to Daily Code Buffer!!
+#     env_name: asdasd
+
+
+
