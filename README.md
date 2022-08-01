@@ -15,10 +15,11 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a> -->
 
-<h3 align="center">Spring Bootdemo</h3>
+<h3 align="center">Spring Boot poc and kafka poc</h3>
 
   <p align="center">
-    This a demo project which I started to checkout features of spring boot <br/> This includes all the CRUD operations as well some experimental features.
+    This a demo project which I started to checkout features of spring boot <br/> This includes all the CRUD operations as well some experimental features. 
+    <br/> This also includes apache kafka consumer poc included.
     <!-- <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -93,7 +94,10 @@ This a demo project which I started to checkout features of spring boot <br/> Th
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
+### Steps to run more than one kafka consumer 
+1. cmd: mvn clean install and build the jar file 
+2. Run the jar file java -jar   target/springbootdemo-0.0.1-SNAPSHOT.jar   
+3. To run a second consumer in the same group id cmd: java -jar -Dserver.port=8082  target/springbootdemo-0.0.1-SNAPSHOT.jar where port 8082 allows the consumer app to run in a different port
 ### Prerequisites
 To checkout swagger doc http://localhost:8090/swagger-ui/index.html#/department-controller/saveDepartments
 

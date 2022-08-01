@@ -18,7 +18,10 @@ import org.springframework.web.filter.OncePerRequestFilter;
 import org.springframework.web.util.ContentCachingRequestWrapper;
 import org.springframework.web.util.ContentCachingResponseWrapper;
 
+import lombok.extern.log4j.Log4j2;
+
 @Component
+@Log4j2
 public class CustomLoggingFilter extends OncePerRequestFilter {
     private static final Logger LOG = LoggerFactory.getLogger(CustomLoggingFilter.class);
 
